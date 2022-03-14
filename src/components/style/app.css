@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+.main{
+    border: 2px green solid;
+    margin-top: 10px;
+}
+.right{
+    position:relative;
+    display: flex;
+    justify-content: right;
+    margin-top: -45px;
+}
+.post{
+    margin-bottom: 10px;
+}
